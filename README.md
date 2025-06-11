@@ -1,2 +1,2 @@
 # PacmanPobr
-#Um jogo estilo pacman feito em c++.
+# Um jogo estilo pacman feito em c++.
